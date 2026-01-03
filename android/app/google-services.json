@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764241960284",
+    "project_id": "alan-af578",
+    "storage_bucket": "alan-af578.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764241960284:android:5ef7a4669bf2718c1bb599",
+        "android_client_info": {
+          "package_name": "com.mycompany.alan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Zuv8RoG6glQQxEEppN1ZxTw-wJsYQ2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
